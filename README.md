@@ -1,7 +1,5 @@
 # Chaining_Methods
 
-<h1>Chaining Methods</h1>
-
 In the last assignment, your code might have looked something like this:
 
 ![image](https://github.com/theJames-CE/Chaining_Methods/assets/124546382/7ddfcce4-d2d1-4244-9098-a5cde8ea8458)
